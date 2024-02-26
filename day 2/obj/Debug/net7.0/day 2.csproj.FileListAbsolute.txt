@@ -1,0 +1,14 @@
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\obj\Debug\net7.0\day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\obj\Debug\net7.0\day 2.AssemblyInfoInputs.cache
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\obj\Debug\net7.0\day 2.AssemblyInfo.cs
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\obj\Debug\net7.0\day 2.csproj.CoreCompileInputs.cache
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\bin\Debug\net7.0\day 2.exe
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\bin\Debug\net7.0\day 2.deps.json
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\bin\Debug\net7.0\day 2.runtimeconfig.json
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\bin\Debug\net7.0\day 2.dll
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\bin\Debug\net7.0\day 2.pdb
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\obj\Debug\net7.0\day 2.dll
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\obj\Debug\net7.0\refint\day 2.dll
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\obj\Debug\net7.0\day 2.pdb
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\obj\Debug\net7.0\day 2.genruntimeconfig.cache
+C:\Users\ABDULCAD01\Desktop\CADBATCH\PROJECT\c#\sample\day 2\obj\Debug\net7.0\ref\day 2.dll
